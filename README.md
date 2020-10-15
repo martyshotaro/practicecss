@@ -1,7 +1,5 @@
 # Team Project
 
-<title>Team Project</title>
-
 <h5 style="font-family:verdana">Smart Macayan, Edward Glush</h5> 
 
 <h5 style="font-family:verdana">(A2 Group 6)</h5>

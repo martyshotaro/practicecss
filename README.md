@@ -1,10 +1,30 @@
 # Team Project
 
-<h5 style="font-family:verdana">Smart Macayan, Edward Glush</h5> 
+<!DOCTYPE html>
+<title>Team Project</title>
 
-<h5 style="font-family:verdana">(A2 Group 6)</h5>
+<html>Smart Macayan, Edward Glush
+<h4>(A2 Group 6)</h4>
 
-<h3 style="font-family:verdana">COSC2196: Assessment 2 (Team Project)</h3>
+<style>
+body {
+  background-color: white;
+}
+
+h4 {
+  color: black;
+  text-align: side;
+}
+
+p {
+  font-family: verdana;
+  font-size: 15px;
+}
+</style>
+</head>
+<body>
+
+<h3>COSC2196: Assessment 2 (Team Project)     </h3>
 
 <nav>
     <ul> 
@@ -13,15 +33,16 @@
        <li><a href="idealjobs.html">Ideal Jobs</a></li>
        <li><a href="tools.html">Tools</a></li> 
        <li><a href="industrydata.html">Industry Data</a></li>  
-       <li><a href="itwork.css">IT Work</a></li>  
+       <li><a href="itwork.html">IT Work</a></li>  
        <li><a href="ittechnologies.html">IT Technologies</a></li>
        <li><a href="projectidea.html">Project Idea</a></li>
        <li><a href="groupreflection.html">Group Reflection</a></li>
-       <li><a href="references.css">References</a></li>     
+       <li><a href="references.html">References</a></li>      
     </ul> 
 </nav>
-  
-<body bgcolor="grey">
+
+</html>
+
     
 
 

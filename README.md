@@ -13,7 +13,7 @@
        <li><a href="idealjobs.html">Ideal Jobs</a></li>
        <li><a href="tools.html">Tools</a></li> 
        <li><a href="industrydata.html">Industry Data</a></li>  
-       <li><a href="itwork.html">IT Work</a></li>  
+       <li><a href="itwork.css">IT Work</a></li>  
        <li><a href="ittechnologies.html">IT Technologies</a></li>
        <li><a href="projectidea.html">Project Idea</a></li>
        <li><a href="groupreflection.html">Group Reflection</a></li>

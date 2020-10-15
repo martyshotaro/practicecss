@@ -31,5 +31,46 @@ https://web.microsoftstream.com/video/86b017b5-ccac-4885-b92f-1697e23b715f
 
 Note: All Ms Teams Agenda and Action Notes are in a separate PDF!
 
+<title>Team Project</title>                         
+<h5 style="font-family:verdana">Smart Macayan, Edward Glush</h5> 
+
+<h5 style="font-family:verdana">(A2 Group 6)</h5>
+
+<h3 style="font-family:verdana">COSC2196: Assessment 2 (Team Project)</h3>
+
+<nav>
+    <ul> 
+       <li><a href="teamprofilesmart.html">Team Profile (Smart Macayan)</a></li>
+       <li><a href="teamprofileedward.html">Team Profile (Edward Glush)</a></li> 
+       <li><a href="idealjobs.html">Ideal Jobs</a></li>
+       <li><a href="tools.html">Tools</a></li> 
+       <li><a href="industrydata.html">Industry Data</a></li>  
+       <li><a href="itwork.html">IT Work</a></li>  
+       <li><a href="ittechnologies.html">IT Technologies</a></li>
+       <li><a href="projectidea.html">Project Idea</a></li>
+       <li><a href="groupreflection.html">Group Reflection</a></li>
+       <li><a href="references.html">References</a></li>     
+    </ul> 
+</nav>
+  
+<body bgcolor="grey">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

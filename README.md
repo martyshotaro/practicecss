@@ -17,7 +17,7 @@
        <li><a href="ittechnologies.html">IT Technologies</a></li>
        <li><a href="projectidea.html">Project Idea</a></li>
        <li><a href="groupreflection.html">Group Reflection</a></li>
-       <li><a href="references.html">References</a></li>     
+       <li><a href="references.css">References</a></li>     
     </ul> 
 </nav>
   
